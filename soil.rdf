@@ -10,8 +10,7 @@
      xmlns:swrla="http://swrl.stanford.edu/ontologies/3.3/swrla.owl#"
      xmlns:swrlb="http://www.w3.org/2003/11/swrlb#"
      xmlns:soil-ontology="https://ghelfer.net/ontologies/soil-ontology#">
-    <owl:Ontology rdf:about="https://ghelfer.net/ontologies/soil-ontology"/>
-    
+    <owl:Ontology rdf:about="https://ghelfer.net/ontologies/soil-ontology"/>    
 
 
     <!-- 
